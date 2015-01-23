@@ -1,0 +1,10 @@
+{
+  "name": "flow-server",
+  "main": "flowServer.js",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.1.1",
+    "js2xmlparser": "^0.1.7",
+    "mongoose": "^3.8.21"
+  }
+}
